@@ -3,4 +3,6 @@ Repozitář pro účely předmětu IS cvičení
 
 Změna provedena na lokále (počítač v učebně H45) 2025-09-24 (9:53).
 
-Další změna 2025-09-24 (10:04).
+*Další změna 2025-09-24 (10:04).*
+
+_Změna provedena přímo v GitHubu 2025-09-24 (10:08)._
