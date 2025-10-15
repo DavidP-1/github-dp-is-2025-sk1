@@ -47,8 +47,16 @@ while (again == "a")
     Console.WriteLine("******************************");
     Console.WriteLine();
 
-
-
+    //Výpis řady
+    Console.WriteLine();
+    Console.WriteLine("******************************");
+    Console.WriteLine("Výpis číselné řady:");
+    int current = first;
+    while (current <= last) {
+        Console.WriteLine(current);
+        current = current + step; //ruční přičtení diference
+    }
+    Console.WriteLine("******************************");
 
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a.");
