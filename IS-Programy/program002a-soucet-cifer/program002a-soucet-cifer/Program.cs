@@ -28,11 +28,11 @@ while (again == "a")
     while (number >= 10) {
         digit = number % 10; //zbytek po dělení desítkou nám bude určovat jednetolivé cifry zprava
         number = number - digit / 10;
-        Console.WriteLine("Zbytek: {}", digit);
+        Console.WriteLine("Zbytek: {0}", digit);
         suma = suma + digit;
     }
     //nesmíme zapomenout vypsat poslední číslici
-    Console.WriteLine("Zbytek: {}", number);
+    Console.WriteLine("Zbytek: {0}", number);
     
     //nesmíme zapomenout přičíst poslední číslici do sumy
     suma = suma + number;
