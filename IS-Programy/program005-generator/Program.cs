@@ -43,18 +43,42 @@ while (again == "a")
     //Random myRandNumb = new Random(50); generování stejných čísel při stejném vstupu (hodí se při testování)
     Random myRandNumb = new Random();
 
+    //záporná, kladná, nuly
+    int neg = 0;
+    int pos = 0;
+    int zeros = 0;
+    //sudá a lichá
+    int even = 0;
+    int odd = 0;
+
     Console.WriteLine();
     Console.WriteLine("======================================");
     Console.WriteLine("Pseudonáhodná čísla:");
-    for(int i = 0; i < n; i++)
+    for (int i = 0; i < n; i++)
     {
-        myRandNumbs[i] = myRandNumb.Next(lowerBound, upperBound);
+        myRandNumbs[i] = myRandNumb.Next(lowerBound, upperBound+1);
         Console.Write("{0}; ", myRandNumbs[i]);
+
+        if (myRandNumbs[i] < 0)
+            neg++;
+        else if (myRandNumbs[i] > 0)
+            pos++;
+        else
+            zeros++;
+        if (myRandNumbs[i] % 2 == 0)
+            even++;
+        else
+            odd++;
     }
+
+    Console.WriteLine();
+    Console.WriteLine("======================================");
+    Console.WriteLine("Počet záporných: {0}, počet kladných: {1}, počet nul: {2}", neg, pos, zeros);
+    Console.WriteLine("======================================");
+    Console.WriteLine("Počet sudých čísel: {0}, počet lichých čísel: {1}", even, odd);
+    Console.WriteLine("======================================");
 
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a.");
     again = Console.ReadLine();
-
-
 }
