@@ -1,0 +1,5 @@
+C:\aaa\IS-2025-Sk1\github-dp-is-2025-sk1\IS-Programy\program005-generator\obj\Debug\net9.0\program005-generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2025-Sk1\github-dp-is-2025-sk1\IS-Programy\program005-generator\obj\Debug\net9.0\program005-generator.AssemblyInfoInputs.cache
+C:\aaa\IS-2025-Sk1\github-dp-is-2025-sk1\IS-Programy\program005-generator\obj\Debug\net9.0\program005-generator.AssemblyInfo.cs
+C:\aaa\IS-2025-Sk1\github-dp-is-2025-sk1\IS-Programy\program005-generator\obj\Debug\net9.0\program005-generator.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2025-Sk1\github-dp-is-2025-sk1\IS-Programy\program005-generator\obj\Debug\net9.0\program005-generator.sourcelink.json
