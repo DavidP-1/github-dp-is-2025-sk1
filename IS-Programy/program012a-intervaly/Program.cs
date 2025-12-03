@@ -70,10 +70,11 @@ while (again == "a")
             interval4++;
     }
 
+    Console.WriteLine();
     Console.WriteLine("Počet čísel v intervalu <{0}, {1}>: {2}.",lowerBound, upperBound * 0.25, interval1);
-    Console.WriteLine("Počet čísel v intervalu <{0}, {1}>: {2}.",upperBound + 1 * 0.25, upperBound * 0.5, interval2);
-    Console.WriteLine("Počet čísel v intervalu <{0}, {1}>: {2}.",upperBound + 1 * 0.5, upperBound * 0.55, interval3);
-    Console.WriteLine("Počet čísel v intervalu <{0}, {1}>: {2}.",upperBound + 1 * 0.75, upperBound, interval4);
+    Console.WriteLine("Počet čísel v intervalu <{0}, {1}>: {2}.",upperBound * 0.25 + 1, upperBound * 0.5, interval2);
+    Console.WriteLine("Počet čísel v intervalu <{0}, {1}>: {2}.",upperBound * 0.5 + 1, upperBound * 0.75, interval3);
+    Console.WriteLine("Počet čísel v intervalu <{0}, {1}>: {2}.",upperBound * 0.75 + 1, upperBound, interval4);
                 
 
 
