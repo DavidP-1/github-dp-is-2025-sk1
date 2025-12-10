@@ -3,6 +3,7 @@ while (again == "a")
 {
     Console.Clear();
     razitko();
+
     //Načítání hodnot
     ulong a = nactiCislo("Zadejte číslo a: ");
     ulong b = nactiCislo("Zadejte číslo b: ");
@@ -12,12 +13,9 @@ while (again == "a")
 
     zobrazitVysledky(a, b, nsd, nsn);
 
-
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a.");
     again = Console.ReadLine();
-
-
 }
 
 //metoda, která nic nevrací
@@ -43,7 +41,6 @@ static ulong nactiCislo(string zprava)
 
     // metoda, ketrá vrací nějaký konkrétní datový typ, musí obsahovat tento řádek
     return cislo;
-
 }
 
 //metoda pro výpočet NSD dvou čísel
@@ -65,7 +62,7 @@ static ulong vypocitatNSN(ulong a, ulong b, ulong nsd)
     return (a * b / nsd);
 }
 
-//metoda vypišující vysledky
+//metoda vypisující vysledky
 static void zobrazitVysledky(ulong a, ulong b, ulong nsd, ulong nsn)
 {
     Console.WriteLine();
