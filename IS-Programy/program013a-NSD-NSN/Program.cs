@@ -8,10 +8,11 @@ while (again == "a")
     ulong b = nactiCislo("Zadejte číslo b: ");
 
     ulong nsd = vypocitatNSD(a, b);
+    ulong nsn = vypocitatNSN(a, b, nsd);
 
-    Console.WriteLine();
-    Console.WriteLine("====================================");
-    Console.WriteLine("NSD čísel {0} a {1} je {2}.", a, b, nsd);
+    zobrazitVysledky(a, b, nsd, nsn);
+
+
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a.");
     again = Console.ReadLine();
@@ -58,4 +59,19 @@ static ulong vypocitatNSD(ulong a, ulong b)
     return a;
 }
 
+//metoda pro výpočrt NSN dvou čísel na základě známé hodnoty NSD
+static ulong vypocitatNSN(ulong a, ulong b, ulong nsd)
+{
+    return (a * b / nsd);
+}
 
+//metoda vypišující vysledky
+static void zobrazitVysledky(ulong a, ulong b, ulong nsd, ulong nsn)
+{
+    Console.WriteLine();
+    Console.WriteLine("====================================");
+    Console.WriteLine("NSD čísel {0} a {1} je {2}.", a, b, nsd);
+    Console.WriteLine("====================================");
+    Console.WriteLine("NSN čísel {0} a {1} je {2}.", a, b, nsn);
+    Console.WriteLine("====================================");
+}
