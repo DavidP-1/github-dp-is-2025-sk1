@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("program013a-NSD-NSN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd6b2cc6b764a8c675113048658f8b86eebf85a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ad59b0de6459f4e94fcb54608ea4b5baf363460")]
 [assembly: System.Reflection.AssemblyProductAttribute("program013a-NSD-NSN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("program013a-NSD-NSN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
