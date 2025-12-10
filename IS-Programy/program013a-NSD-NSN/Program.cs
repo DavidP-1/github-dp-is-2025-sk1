@@ -7,6 +7,11 @@ while (again == "a")
     ulong a = nactiCislo("Zadejte číslo a: ");
     ulong b = nactiCislo("Zadejte číslo b: ");
 
+    ulong nsd = vypocitatNSD(a, b);
+
+    Console.WriteLine();
+    Console.WriteLine("====================================");
+    Console.WriteLine("NSD čísel {0} a {1} je {2}.", a, b, nsd);
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a.");
     again = Console.ReadLine();
@@ -40,5 +45,17 @@ static ulong nactiCislo(string zprava)
 
 }
 
+//metoda pro výpočet NSD dvou čísel
+static ulong vypocitatNSD(ulong a, ulong b)
+{
+    while (a != b)
+    {
+        if (a > b)
+            a = a - b;
+        else
+            b = b - a;
+    }
+    return a;
+}
 
 
