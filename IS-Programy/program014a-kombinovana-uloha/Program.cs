@@ -134,12 +134,21 @@ while (again == "a")
     else
         median = (numbs[n / 2 - 1] + numbs[n / 2]) / 2;
     
-    Console.WriteLine();
     Console.WriteLine("==================================");
     Console.WriteLine($"Medián: {median}");
     
     //Převod do binární soustavy
+    string bin = "";
+    int x = fourth;
+    if (x == 0) bin = "0";
+    while (x > 0)
+    {
+        bin = (x % 2) + bin;
+        x /= 2; // to samé jako x = x / 2;
+    }
     
+    Console.WriteLine("=================================="); 
+    Console.WriteLine($"Čtvrté největší číslo v binární soustavě: {fourth}(2) = {bin}");
 
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a.");
