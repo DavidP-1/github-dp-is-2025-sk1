@@ -43,8 +43,7 @@ while (again == "a")
     //Random myRandNumb = new Random(50); generování stejných čísel při stejném vstupu (hodí se při testování)
     Random myRandNumb = new Random();
 
-    Console.WriteLine();
-    Console.WriteLine("======================================");
+
     Console.WriteLine("Pseudonáhodná čísla:");
     for (int i = 0; i < n; i++)
     {
@@ -52,6 +51,7 @@ while (again == "a")
         Console.Write("{0}; ", numbs[i]);
     }
 
+    //Max, Min a jejich pozice
     int poz1 = 0;
     int poz2 = 0;
     int max = numbs[0];
@@ -79,9 +79,28 @@ while (again == "a")
     Console.WriteLine("Maximum je {0}; jeho pozice je: {1}.", max, poz1);
     Console.WriteLine("Minimum je {0}; jeho pozice je: {1}.", min, poz2);
 
-    //seřazení pole
+    //Seřazení pole
+    for (int i = 0; i < n - 1; i++)
+    {
+        for (int j = 0; j < n - i - 1; j++)
+        {
+            if (numbs[j] < numbs[j + 1])
+            {
+                int temp = numbs[j + 1];
+                numbs[j + 1] = numbs[j];
+                numbs[j] = temp;
+            }
 
+        }
+    }
     
+    //Výpis seřazených čísel
+    Console.WriteLine("======================================");
+    Console.WriteLine("Seřazená čísla:");
+    for (int i = 0; i < n; i++)
+    {
+        Console.Write("{0}; ", numbs[i]);
+    }
 
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a.");
