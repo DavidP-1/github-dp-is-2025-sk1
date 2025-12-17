@@ -148,6 +148,7 @@ while (again == "a")
         x /= 2; // to samé jako x = x / 2;
     }
     
+    
     Console.WriteLine("=================================="); 
     Console.WriteLine($"Čtvrté největší číslo v binární soustavě: {fourth}(2) = {bin}");
 
