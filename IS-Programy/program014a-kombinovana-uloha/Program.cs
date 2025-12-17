@@ -148,11 +148,73 @@ while (again == "a")
         x /= 2; // to samé jako x = x / 2;
     }
     
-    
     Console.WriteLine("=================================="); 
     Console.WriteLine($"Čtvrté největší číslo v binární soustavě: {fourth}(2) = {bin}");
+    
+    //Vykreslení obrazce
+    Console.WriteLine();
+    Console.WriteLine("=================================="); 
+    
+    int height = median;
+    int width = third;
+
+    Console.WriteLine($"Obrazec jehož výška je {height} a šířka je {width}");
+    Console.WriteLine();
+
+    int part = height / 3;
+
+    // rozhodnutí podle sudé / liché šířky
+    int smallWidth;
+    int indent;
+
+    if (width % 2 == 0)
+    {
+        smallWidth = 2;
+        indent = (width - 2) / 2;
+    }
+    else
+    {
+        smallWidth = 3;
+        indent = (width - 3) / 2;
+    }
+
+    for (int i = 0; i < height; i++)
+    {
+        // horní část
+        if (i < part)
+        {
+            for (int s = 0; s < indent; s++)
+                Console.Write("  ");
+
+            for (int j = 0; j < smallWidth; j++)
+                Console.Write("* ");
+
+            Console.WriteLine();
+        }
+        // prostřední část
+        else if (i < height - part)
+        {
+            for (int j = 0; j < width; j++)
+                Console.Write("* ");
+
+            Console.WriteLine();
+        }
+        // dolní část
+        else
+        {
+            for (int s = 0; s < indent; s++)
+                Console.Write("  ");
+
+            for (int j = 0; j < smallWidth; j++)
+                Console.Write("* ");
+
+            Console.WriteLine();
+        }
+    }
+
 
     Console.WriteLine();
+    Console.WriteLine("==================================");
     Console.WriteLine("Pro opakování programu stiskněte klávesu a.");
     again = Console.ReadLine();
 
