@@ -43,7 +43,8 @@ while (again == "a")
     //Random myRandNumb = new Random(50); generování stejných čísel při stejném vstupu (hodí se při testování)
     Random myRandNumb = new Random();
 
-
+    Console.WriteLine();
+    Console.WriteLine("======================================");
     Console.WriteLine("Pseudonáhodná čísla:");
     for (int i = 0; i < n; i++)
     {
