@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("program002b-soucet-cifer-reseno-jinak")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("program003a-serazeni-dvou-cisel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acda03959c64a36e05521ce7ddd7a944892105a6")]
-[assembly: System.Reflection.AssemblyProductAttribute("program002b-soucet-cifer-reseno-jinak")]
-[assembly: System.Reflection.AssemblyTitleAttribute("program002b-soucet-cifer-reseno-jinak")]
+[assembly: System.Reflection.AssemblyProductAttribute("program003a-serazeni-dvou-cisel")]
+[assembly: System.Reflection.AssemblyTitleAttribute("program003a-serazeni-dvou-cisel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Vygenerované třídou WriteCodeFragment nástroje MSBuild
