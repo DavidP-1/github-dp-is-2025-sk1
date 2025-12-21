@@ -1,0 +1,15 @@
+C:\Users\David\Desktop\VS Code\github-dp-is-2025-sk1\github-dp-is-2025-sk1\IS-Programy\program002b-soucet-cifer-reseno-jinak\bin\Debug\net9.0\program002b-soucet-cifer-reseno-jinak.exe
+C:\Users\David\Desktop\VS Code\github-dp-is-2025-sk1\github-dp-is-2025-sk1\IS-Programy\program002b-soucet-cifer-reseno-jinak\bin\Debug\net9.0\program002b-soucet-cifer-reseno-jinak.deps.json
+C:\Users\David\Desktop\VS Code\github-dp-is-2025-sk1\github-dp-is-2025-sk1\IS-Programy\program002b-soucet-cifer-reseno-jinak\bin\Debug\net9.0\program002b-soucet-cifer-reseno-jinak.runtimeconfig.json
+C:\Users\David\Desktop\VS Code\github-dp-is-2025-sk1\github-dp-is-2025-sk1\IS-Programy\program002b-soucet-cifer-reseno-jinak\bin\Debug\net9.0\program002b-soucet-cifer-reseno-jinak.dll
+C:\Users\David\Desktop\VS Code\github-dp-is-2025-sk1\github-dp-is-2025-sk1\IS-Programy\program002b-soucet-cifer-reseno-jinak\bin\Debug\net9.0\program002b-soucet-cifer-reseno-jinak.pdb
+C:\Users\David\Desktop\VS Code\github-dp-is-2025-sk1\github-dp-is-2025-sk1\IS-Programy\program002b-soucet-cifer-reseno-jinak\obj\Debug\net9.0\program002b-soucet-cifer-reseno-jinak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\VS Code\github-dp-is-2025-sk1\github-dp-is-2025-sk1\IS-Programy\program002b-soucet-cifer-reseno-jinak\obj\Debug\net9.0\program002b-soucet-cifer-reseno-jinak.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\VS Code\github-dp-is-2025-sk1\github-dp-is-2025-sk1\IS-Programy\program002b-soucet-cifer-reseno-jinak\obj\Debug\net9.0\program002b-soucet-cifer-reseno-jinak.AssemblyInfo.cs
+C:\Users\David\Desktop\VS Code\github-dp-is-2025-sk1\github-dp-is-2025-sk1\IS-Programy\program002b-soucet-cifer-reseno-jinak\obj\Debug\net9.0\program002b-soucet-cifer-reseno-jinak.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\VS Code\github-dp-is-2025-sk1\github-dp-is-2025-sk1\IS-Programy\program002b-soucet-cifer-reseno-jinak\obj\Debug\net9.0\program002b-soucet-cifer-reseno-jinak.sourcelink.json
+C:\Users\David\Desktop\VS Code\github-dp-is-2025-sk1\github-dp-is-2025-sk1\IS-Programy\program002b-soucet-cifer-reseno-jinak\obj\Debug\net9.0\program002b-soucet-cifer-reseno-jinak.dll
+C:\Users\David\Desktop\VS Code\github-dp-is-2025-sk1\github-dp-is-2025-sk1\IS-Programy\program002b-soucet-cifer-reseno-jinak\obj\Debug\net9.0\refint\program002b-soucet-cifer-reseno-jinak.dll
+C:\Users\David\Desktop\VS Code\github-dp-is-2025-sk1\github-dp-is-2025-sk1\IS-Programy\program002b-soucet-cifer-reseno-jinak\obj\Debug\net9.0\program002b-soucet-cifer-reseno-jinak.pdb
+C:\Users\David\Desktop\VS Code\github-dp-is-2025-sk1\github-dp-is-2025-sk1\IS-Programy\program002b-soucet-cifer-reseno-jinak\obj\Debug\net9.0\program002b-soucet-cifer-reseno-jinak.genruntimeconfig.cache
+C:\Users\David\Desktop\VS Code\github-dp-is-2025-sk1\github-dp-is-2025-sk1\IS-Programy\program002b-soucet-cifer-reseno-jinak\obj\Debug\net9.0\ref\program002b-soucet-cifer-reseno-jinak.dll

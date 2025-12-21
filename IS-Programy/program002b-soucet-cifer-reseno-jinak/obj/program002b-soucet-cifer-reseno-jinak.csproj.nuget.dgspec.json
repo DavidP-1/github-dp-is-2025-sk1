@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David\\Desktop\\VS Code\\github-dp-is-2025-sk1\\github-dp-is-2025-sk1\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj": {}
+    "C:\\Users\\David\\Desktop\\VS Code\\github-dp-is-2025-sk1\\github-dp-is-2025-sk1\\IS-Programy\\program002b-soucet-cifer-reseno-jinak\\program002b-soucet-cifer-reseno-jinak.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David\\Desktop\\VS Code\\github-dp-is-2025-sk1\\github-dp-is-2025-sk1\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj": {
+    "C:\\Users\\David\\Desktop\\VS Code\\github-dp-is-2025-sk1\\github-dp-is-2025-sk1\\IS-Programy\\program002b-soucet-cifer-reseno-jinak\\program002b-soucet-cifer-reseno-jinak.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David\\Desktop\\VS Code\\github-dp-is-2025-sk1\\github-dp-is-2025-sk1\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
-        "projectName": "program001-vypis-rady",
-        "projectPath": "C:\\Users\\David\\Desktop\\VS Code\\github-dp-is-2025-sk1\\github-dp-is-2025-sk1\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
+        "projectUniqueName": "C:\\Users\\David\\Desktop\\VS Code\\github-dp-is-2025-sk1\\github-dp-is-2025-sk1\\IS-Programy\\program002b-soucet-cifer-reseno-jinak\\program002b-soucet-cifer-reseno-jinak.csproj",
+        "projectName": "program002b-soucet-cifer-reseno-jinak",
+        "projectPath": "C:\\Users\\David\\Desktop\\VS Code\\github-dp-is-2025-sk1\\github-dp-is-2025-sk1\\IS-Programy\\program002b-soucet-cifer-reseno-jinak\\program002b-soucet-cifer-reseno-jinak.csproj",
         "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David\\Desktop\\VS Code\\github-dp-is-2025-sk1\\github-dp-is-2025-sk1\\IS-Programy\\program001-vypis-rady\\obj\\",
+        "outputPath": "C:\\Users\\David\\Desktop\\VS Code\\github-dp-is-2025-sk1\\github-dp-is-2025-sk1\\IS-Programy\\program002b-soucet-cifer-reseno-jinak\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,3 +13,18 @@ C:\aaa\IS-2025-Sk1\github-dp-is-2025-sk1\IS-Programy\program014a-kombinovana-ulo
 C:\aaa\IS-2025-Sk1\github-dp-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\program014a-kombinovana-uloha.pdb
 C:\aaa\IS-2025-Sk1\github-dp-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\program014a-kombinovana-uloha.genruntimeconfig.cache
 C:\aaa\IS-2025-Sk1\github-dp-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\ref\program014a-kombinovana-uloha.dll
+C:\Users\David\Desktop\VS Code\github-dp-is-2025-sk1\github-dp-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\bin\Debug\net9.0\program014a-kombinovana-uloha.exe
+C:\Users\David\Desktop\VS Code\github-dp-is-2025-sk1\github-dp-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\bin\Debug\net9.0\program014a-kombinovana-uloha.deps.json
+C:\Users\David\Desktop\VS Code\github-dp-is-2025-sk1\github-dp-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\bin\Debug\net9.0\program014a-kombinovana-uloha.runtimeconfig.json
+C:\Users\David\Desktop\VS Code\github-dp-is-2025-sk1\github-dp-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\bin\Debug\net9.0\program014a-kombinovana-uloha.dll
+C:\Users\David\Desktop\VS Code\github-dp-is-2025-sk1\github-dp-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\bin\Debug\net9.0\program014a-kombinovana-uloha.pdb
+C:\Users\David\Desktop\VS Code\github-dp-is-2025-sk1\github-dp-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\program014a-kombinovana-uloha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\VS Code\github-dp-is-2025-sk1\github-dp-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\program014a-kombinovana-uloha.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\VS Code\github-dp-is-2025-sk1\github-dp-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\program014a-kombinovana-uloha.AssemblyInfo.cs
+C:\Users\David\Desktop\VS Code\github-dp-is-2025-sk1\github-dp-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\program014a-kombinovana-uloha.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\VS Code\github-dp-is-2025-sk1\github-dp-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\program014a-kombinovana-uloha.sourcelink.json
+C:\Users\David\Desktop\VS Code\github-dp-is-2025-sk1\github-dp-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\program014a-kombinovana-uloha.dll
+C:\Users\David\Desktop\VS Code\github-dp-is-2025-sk1\github-dp-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\refint\program014a-kombinovana-uloha.dll
+C:\Users\David\Desktop\VS Code\github-dp-is-2025-sk1\github-dp-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\program014a-kombinovana-uloha.pdb
+C:\Users\David\Desktop\VS Code\github-dp-is-2025-sk1\github-dp-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\program014a-kombinovana-uloha.genruntimeconfig.cache
+C:\Users\David\Desktop\VS Code\github-dp-is-2025-sk1\github-dp-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\ref\program014a-kombinovana-uloha.dll

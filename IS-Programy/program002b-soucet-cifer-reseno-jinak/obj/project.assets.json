@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\David\\Desktop\\VS Code\\github-dp-is-2025-sk1\\github-dp-is-2025-sk1\\IS-Programy\\program014a-kombinovana-uloha\\program014a-kombinovana-uloha.csproj",
-      "projectName": "program014a-kombinovana-uloha",
-      "projectPath": "C:\\Users\\David\\Desktop\\VS Code\\github-dp-is-2025-sk1\\github-dp-is-2025-sk1\\IS-Programy\\program014a-kombinovana-uloha\\program014a-kombinovana-uloha.csproj",
+      "projectUniqueName": "C:\\Users\\David\\Desktop\\VS Code\\github-dp-is-2025-sk1\\github-dp-is-2025-sk1\\IS-Programy\\program002b-soucet-cifer-reseno-jinak\\program002b-soucet-cifer-reseno-jinak.csproj",
+      "projectName": "program002b-soucet-cifer-reseno-jinak",
+      "projectPath": "C:\\Users\\David\\Desktop\\VS Code\\github-dp-is-2025-sk1\\github-dp-is-2025-sk1\\IS-Programy\\program002b-soucet-cifer-reseno-jinak\\program002b-soucet-cifer-reseno-jinak.csproj",
       "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\David\\Desktop\\VS Code\\github-dp-is-2025-sk1\\github-dp-is-2025-sk1\\IS-Programy\\program014a-kombinovana-uloha\\obj\\",
+      "outputPath": "C:\\Users\\David\\Desktop\\VS Code\\github-dp-is-2025-sk1\\github-dp-is-2025-sk1\\IS-Programy\\program002b-soucet-cifer-reseno-jinak\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config"
